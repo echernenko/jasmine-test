@@ -1,0 +1,12 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "Plaing with Jasmine tests",
+  "main": "flatten.js",
+  "scripts": {
+    "start": "nodejs flatten.js",
+    "test": "jasmine tests/flatten.js"
+  },
+  "author": "Ievgenii Chernenko",
+  "license": "ISC"
+}
